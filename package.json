@@ -1,0 +1,19 @@
+{
+  "name": "cse-major-project-rest-api",
+  "version": "1.0.0",
+  "description": "A rest api to manage major project related tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "GET",
+    "POST",
+    "PATCH",
+    "PUT",
+    "AUTH"
+  ],
+  "author": "Sudarshan Rai",
+  "license": "MIT"
+}
